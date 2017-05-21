@@ -28,7 +28,7 @@ nav {
 .navbar-list li {
   float:right;
   margin:25px 15px;
-  font-size:12px;
+  font-size:15px;
   font-weight:800;
 }
 
@@ -47,6 +47,7 @@ nav {
   background-position:center;
   margin-top:-20px;
   height:700px;
+  padding-bottom:30px;
 }
 
 h1, h2, h3, .navbar-list li, .navbar-list li#brand {
@@ -60,12 +61,12 @@ h1, h2, h3, .navbar-list li, .navbar-list li#brand {
 .header h1 {
   padding-top: 180px;
   padding-bottom:5px;
-  font-size:50px;
+  font-size:60px;
   font-weight:800;
 }
 
 .header h2 {
-  font-size:40px;
+  font-size:35px;
   font-weight:normal;
 }
 
